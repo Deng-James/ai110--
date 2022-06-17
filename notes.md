@@ -6,6 +6,19 @@
 * 本專案的程式碼來源自陳鍾誠老師的[專案](https://gitlab.com/ccc110/ai)
 * 本專案的程式碼來源Medium [作者:Tzu-Chieh Tang](https://tzuchieh0931.medium.com/hc-metaheuristic-02-a071980b37e6)
 * 本專案的程式碼來源Medium [作者:Tommy Huang](https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E5%9F%BA%E7%A4%8E%E6%95%B8%E5%AD%B8-%E4%BA%8C-%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95-gradient-descent-406e1fd001f)
+
+# 課程:人工智慧 -- 筆記、習題與報告
+
+欄位 | 內容
+-----|--------
+學期 | 110 學年度下學期
+學生 |  鄧筌祐
+學號末兩碼 | 49
+教師 | [陳鍾誠](https://www.nqu.edu.tw/educsie/index.php?act=blog&code=list&ids=4)
+學校科系 | [金門大學資訊工程系](https://www.nqu.edu.tw/educsie/index.php)
+課程內容 | https://gitlab.com/ccc110/ai
+教材網址 | [陳鍾誠的人工智慧課程](https://kinmen6.com/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/README.md)
+
 ## 圖靈測試
 圖靈測試（英語：Turing test）是英國電腦科學家圖靈於1950年提出的思想實驗，目的在測試機器能否表現出與人一樣的智慧型水準。測試時測試者通過電腦鍵盤輸入文字並通過螢幕輸出文字。
 
