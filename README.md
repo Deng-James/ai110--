@@ -9,7 +9,7 @@
 
 ![table](imgs/table.png)
 
-當然，目前棋力還比較一般，因為是從完全隨機開始訓練的，比方說某個對局片段(800 playouts)：
+目前棋力還比較一般，因為是從完全隨機開始訓練的，比方說某個對局片段(800 playouts)：
 
 ![demo](imgs/demo.gif)
 
