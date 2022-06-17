@@ -1,4 +1,5 @@
 # icyChessZero 中国象棋alpha zero 
+# 下棋: AlphaZero
 
 这个项目受到alpha go zero的启发，旨在训练一个中等人类水平或高于中等人类水平的深度神经网络，来完成下中国象棋的任务。目前这个项目仍在积极开发中，并且仍然没有完成全部的开发，欢迎pull request 或者star。 然而受到计算资源限制，这样庞大的任务不可能在一台机器上完成训练，这也是我完成了分布式训练代码的原因，希望各位小伙伴能够加入，一起训练这样一个中国象棋alpha go的网络。
 
@@ -119,13 +120,4 @@ master 机器可以在```ipynbs/elo_graph.ipynb``` 中查看集群训练的模�
 3. 给代码加上版本限制，master只接受与自己版本相同的slave的棋谱
 4. 专门搞一个web ui实时展示elo和棋谱等
 5. readme写清楚模块划分
-.....
 
-等等等等
-如果你发现有你想做的，提提pull request或者联系我撒
-
-这个work的一些细节已经以草稿的形式发布在了： http://icybee.cn/article/69.html
-
-# 联系方式：
-* QQ/wechat : 892009517
-* 邮箱 : icybee@yeah.net 
